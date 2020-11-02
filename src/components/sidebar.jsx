@@ -64,6 +64,11 @@ export default class Sidebar extends Component {
                     </a>
                   </li>
                   <li>
+                    <a href="#projects" data-nav-section="projects">
+                      Projects & POCs
+                    </a>
+                  </li>
+                  <li>
                     <a href="#education" data-nav-section="education">
                       Education
                     </a>
