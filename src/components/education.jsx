@@ -32,13 +32,13 @@ export default class Education extends Component {
                           <span>Master of Science in Information Systems</span>
                           <span style={{ float: "right" }}>2019-2021</span>
                           <br />
-                          <span style={{ float: "right" }}>GPA: 3.765</span>
+                          <span style={{ float: "right" }}>GPA: 3.765/4.0</span>
                         </h2>
                         <p>
                           Relevant Courses:
                           <ul>
                             <li>Network Structures & Cloud Computing</li>
-                            <li>Web Tools & Development Methods</li>
+                            <li>Web Development Tools & Methods</li>
                             <li>Web Design & User Experience</li>
                             <li>Big Data Engineering</li>
                             <li>Application, Engineering & Development</li>
