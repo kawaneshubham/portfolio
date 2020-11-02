@@ -69,6 +69,11 @@ export default class Sidebar extends Component {
                     </a>
                   </li>
                   <li>
+                    <a href="#certification" data-nav-section="certification">
+                      Certifications
+                    </a>
+                  </li>
+                  <li>
                     <a href="#education" data-nav-section="education">
                       Education
                     </a>
@@ -98,7 +103,7 @@ export default class Sidebar extends Component {
                 </li>
               </ul>
             </nav>
-            <br></br>
+
             <div className="colorlib-footer">
               <b
                 style={{
