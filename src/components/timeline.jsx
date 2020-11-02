@@ -88,9 +88,10 @@ export default class Timeline extends Component {
                               Testing
                             </li>
                             <li>
-                              Handled deployment of Web application and
-                              microservices developed in Java & Spring Boot on
-                              AWS
+                              Lead the development team for creating a ‘Web
+                              Crawler’ utility using Swing and JavaFX framework
+                              which served the purpose of scraping the DOM data
+                              from any HTML website
                             </li>
                             <li>
                               Gained hands-on experience in AWS services like
@@ -125,14 +126,24 @@ export default class Timeline extends Component {
                         <p>
                           <ul>
                             <li>
-                              Handled university’s students as well as faculties
-                              data using Salesforce CRM platform
+                              Performing university’s vendor, research and co-op
+                              Data Load using Data loader on Salesforce CRM
+                              platform
                             </li>
                             <li>
                               Gathered useful insights from the data such as
                               student intake per year, Co-op percentage over
                               semester and presented it to the senior leadership
                               at Northeastern University
+                            </li>
+                            <li>
+                              Maintaining atomicity and integrity of data by
+                              performing de-duplication activities
+                            </li>
+                            <li>
+                              Creating Page Layouts, workflows, approval
+                              processes for admin activities to maintain data
+                              integrity
                             </li>
                           </ul>
                         </p>
@@ -165,6 +176,10 @@ export default class Timeline extends Component {
                               Handled Administrative activities by creating
                               Triggers, Workflows, Duplication Rules, Approval
                               Process, Changeset deployment
+                            </li>
+                            <li>
+                              Gained firsthand experience with Sales Cloud &
+                              Service Cloud
                             </li>
                           </ul>
                         </p>
