@@ -2,7 +2,7 @@
   "short_name": "Portfolio app",
   "name": "Portfolio app made with react as part of 'weekend projects' initiative",
   "private": true,
-	"homepage": "https://Dhruv34788.github.io/me",
+	"homepage": "https://60243541.github.io/portfolio",
 	"dependencies": {
 		"gh-pages": "^2.0.1",
 		"react": "^16.8.3",
