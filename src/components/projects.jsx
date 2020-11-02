@@ -52,7 +52,12 @@ export default class Projects extends Component {
 						<li>Bootstrapped a workflow in CircleCI to compile/run the application & only after successful execution of integration testcases deployed the Web Application using AWS CodeDeploy</li>
 					  </ul>
 					  <strong>Tools & Technologies: Java, Spring Boot, RESTful, Hibernate, PostgreSQL, AWS, CircleCI, Packer, CloudFormation</strong>
+					  <br />
 					</p>
+					<strong>See Project:</strong> &nbsp;
+					<i><a style={{color:"brown"}} href="https://github.com/kawanes-spring2020/webapp">Bill Management System (Webapp),</a></i> &nbsp;&nbsp;
+					<i><a style={{color:"brown"}} href="https://github.com/kawanes-spring2020/infrastructure">IaC (CloudFormation template),</a></i> &nbsp;&nbsp;
+					<i><a style={{color:"brown"}} href="https://github.com/kawanes-spring2020/serverless">Serverless Computing (AWS Lambda)</a></i> &nbsp;&nbsp;
 				  </div>
 				</div>
 			  </article>
@@ -88,6 +93,8 @@ export default class Projects extends Component {
 					  </ul>
 					  <strong>Tools & Technologies: Java, Spring MVC, Hibernate, JSP, MySQL</strong>
 					</p>
+					<strong>See Project:</strong> &nbsp;
+					<i><a style={{color:"brown"}} href="https://github.com/kawanes-spring2020/Splitwise-Application">SplitWise App</a></i> &nbsp;&nbsp;
 				  </div>
 				</div>
 			  </article>
@@ -118,6 +125,8 @@ export default class Projects extends Component {
 					  </ul>
 					  <strong>Tools & Technologies: Java, Swing, DB4O</strong>
 					</p>
+					<strong>See Project:</strong> &nbsp;
+					<i><a style={{color:"brown"}} href="https://github.com/kawanes-spring2020/Foster-Care-Connect">Foster Care Management System</a></i> &nbsp;&nbsp;
 				  </div>
 				</div>
 			  </article>
